@@ -1,0 +1,2 @@
+name= "shiva"
+print(name)
